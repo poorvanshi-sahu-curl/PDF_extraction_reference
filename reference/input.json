@@ -1,0 +1,149 @@
+{
+  "filename": "225152.pdf",
+  "total_blocks": 11,
+  "blocks": [
+    {
+      "source": "pdfplumber",
+      "page": 1,
+      "bbox": [
+        123.36,
+        33.129999999999995,
+        754.96125,
+        58.59000000000005
+      ],
+      "type": "table",
+      "text": "Baker Petrolite LLC |  |  | Invoice | \n | Date30-Jun-2021 | Page1 of 1 |  | Number:911950752",
+      "overlap": false
+    },
+    {
+      "source": "pdfplumber",
+      "page": 1,
+      "bbox": [
+        457.2,
+        62.585000000000036,
+        754.96125,
+        251.29000000000002
+      ],
+      "type": "table",
+      "text": "GeneralInformation\nAmountDue: 5,003.15USD\nTermsofPayment: 30DaysNet\nPaymentDueDate: 30-Jul-2021\nTermsofDelivery: FOBDELIVERED\nModeofTransport: Truckload\nProductLine: 50\nPayerNumber: 20077684\nContactInformation\nBakerPetroliteLLC\n12645WestAirportBlvd.\nSUGARLANDTX 77478\nUSA\nContact:DeborahGarzaEmailID:Debbie.garza@bakerhughes.com\nTel:+1281-741-1459",
+      "overlap": false
+    },
+    {
+      "source": "pdfplumber",
+      "page": 1,
+      "bbox": [
+        5.64,
+        80.39220999999998,
+        755.31399,
+        605.98221
+      ],
+      "type": "text",
+      "text": "Bill-toAddress Ship-toAddress\nMERCURIAENERGYAMERICALLC MERCURIAENERGYAMERICALLC\n20EGREENWAYPLAZA,SUITE650 C/OHOUSTONFUELOIL\nHOUSTONTX 77046 16642JACINTOPORTBLVD\nUSA HOUSTONTX 77015\nUSA\nEMS3039/3040\nAUTHBYKrisLuensmann\n06/27/21\nST LCL Item Material Description Quantity UnitPrice ExtendedPrice(USD)\nTax(%) Tax(%)\nOrder:110960476from30-Jun-2021\nPurch.orderno.:EMS3039/3040from30-Jun-2021\n000010 BSRVP2R P2RServices\nSERVICECHARGE 6.25 2.00 1EA 4,621.85 4,621.85\nTotalServices 4,621.85\nTXStateTax6.250% 288.86\nPasadenaCityTax(SpD)2.000% 92.44\nFinalAmount(USD) 5,003.15\nBakerHughestreatedEMS3039/3040@HFO\nBakerHughessuppliedtheequipment,chemical,andmanpowerforthetreatmentofbarges\nThetotalcostis~$0.11/bblor$4,621.85\nFRAUDALERT-IFYOURECEIVENOTIFICATIONTHATOURBANKDETAILSHAVECHANGED,CONTACTUSIMMEDIATELYBEFORESENDINGFUNDS\nPleaseremitUSDchecksto: BakerHughes,POBOX301057,Dallas,TX75303-1057.\nWireTransfersto: JPMorganChaseBank,ABA#021000021SwiftCode:CHASUS33,A/C00100002022.\nACHpaymentsto: JPMorganChaseBank,ABA#111000614,A/C00100151217.\nPleaseemailremittanceadvicesto: ARCCCASHAPPLICATION@BAKERHUGHES.COM\nREORDERSmadeeasy.VisitShopBakerHughes.com/reorders",
+      "overlap": true
+    },
+    {
+      "source": "pdfplumber",
+      "page": 2,
+      "bbox": [
+        255.56588414634143,
+        564.0820930232558,
+        511.21999999999997,
+        576.3100000000001
+      ],
+      "type": "table",
+      "text": " |  | ",
+      "overlap": false
+    },
+    {
+      "source": "pdfplumber",
+      "page": 2,
+      "bbox": [
+        100.8,
+        96.43226000000004,
+        509.5765549999996,
+        697.0187599999999
+      ],
+      "type": "text",
+      "text": "From: Scappatura-Mitchell,Gail\nTo: \"KristopherLuensmann\";JohnWard;P2R\nSubject: EMS30403039\nDate: Monday,June28,20217:32:00PM\nPleaseseesummarybelow --\nBakerHughestreatedEM S 3039/3040@ HFO\nThankyou,\nGai lScappat ura- Mi chel t l\nP2RDirector\nDownstreamChemicals\nBakerHughes\nM +19176792346\nbakerhughes.com\nPl easeal socopyP2R@ bakerhughes.comonal lnomi nat ons. i\nThismessageisintendedexclusivelyfortheindividualorentitytowhichitisaddressed.Thiscommunicationmaycontaininformation\nthatisproprietary,privilegedorconfidentialorotherwiselegallyexemptfromdisclosure.Ifyouarenotthenamedaddressee,orhave\nbeeninadvertentlyanderroneouslyreferencedintheaddresslineyouarenotauthorizedtoread,print,copyordisseminatethis\nmessageoranypartofit.Ifyouhavereceivedthismessageinerror,pleasenotifythesenderimmediatelybye-mailanddeleteallcopies\nofthemessage.\nFrom:\nSent:\nTo:\nSubject:\nEXTERN AL EM AIL:\nstset-ems3039/3040\nFrom:\nSent:",
+      "overlap": true
+    },
+    {
+      "source": "pdfplumber",
+      "page": 3,
+      "bbox": [
+        100.8,
+        90.3087599999999,
+        509.5765549999996,
+        691.6187600000001
+      ],
+      "type": "text",
+      "text": "To:\nCc:\nSubject:\nGai lScappat ura- Mi chel t l\nP2RDirector\nDownstreamChemicals\nBakerHughes\nM +19176792346\nbakerhughes.com\nPl easeal socopyP2R@ bakerhughes.comonal lnomi nat ons. i\nThismessageisintendedexclusivelyfortheindividualorentitytowhichitisaddressed.Thiscommunicationmaycontaininformation\nthatisproprietary,privilegedorconfidentialorotherwiselegallyexemptfromdisclosure.Ifyouarenotthenamedaddressee,orhave\nbeeninadvertentlyanderroneouslyreferencedintheaddresslineyouarenotauthorizedtoread,print,copyordisseminatethis\nmessageoranypartofit.Ifyouhavereceivedthismessageinerror,pleasenotifythesenderimmediatelybye-mailanddeleteallcopies\nofthemessage.\nFrom:\nSent:\nTo:\n(\nCc:\nSubject:\nEXTERN AL EM AIL:\nFrom:\nSent:",
+      "overlap": true
+    },
+    {
+      "source": "pdfplumber",
+      "page": 4,
+      "bbox": [
+        100.8,
+        90.3087599999999,
+        450.77052000000003,
+        319.47084
+      ],
+      "type": "text",
+      "text": "To: )\nCc:\nSubject:\nFrom:\nSent:\nTo:\nSubject:\nDonotrepl yt ot hi semai Thi . l smessage hasbeensentonbehal fofM ercuri aEnergyTradi ng\nInc.Pl ease cont actJ ohnW ard at ward@ j mercuri com a. foranyquest onsi i nreference ot t hi s\norder.\nhere\nPlease considerthe environm entbefore printingthisem ail!",
+      "overlap": true
+    },
+    {
+      "source": "pymupdf",
+      "page": 1,
+      "bbox": [
+        5.639999866485596,
+        31.34282875061035,
+        755.4996337890625,
+        606.0143432617188
+      ],
+      "type": "text",
+      "text": "Baker Petrolite LLC Invoice\nDate 30-Jun-2021 Page 1 of 1 Number: 911950752\nGeneral Information\nAmount Due: 5,003.15 USD Bill-to Address Ship-to Address\nMERCURIA ENERGY AMERICA LLC MERCURIA ENERGY AMERICA LLC Terms of Payment: 30 Days Net\n20 E GREENWAY PLAZA, SUITE 650 Payment Due Date: 30-Jul-2021 C/O HOUSTON FUEL OIL\nTerms of Delivery: FOB DELIVERED HOUSTON TX 77046 16642 JACINTO PORT BLVD Mode of Transport: Truckload\nUSA HOUSTON TX 77015 Product Line: 50\nUSA Payer Number: 20077684\nContact Information\nBaker Petrolite LLC\n12645 West Airport Blvd.\nSUGAR LAND TX 77478\nUSA\nContact: Deborah Garza Email ID: Debbie.garza@bakerhughes.com\nTel: +1 281-741-1459\nEMS 3039/3040\nAUTH BY Kris Luensmann\n06/27/21\nST LCL Item Material Description Quantity Unit Price Extended Price ( USD )\nTax(%) Tax(%)\nOrder: 110960476 from 30-Jun-2021\nPurch. order no.: EMS 3039/3040 from 30-Jun-2021\n000010 BSRVP2R P2R Services\nSERVICE CHARGE 6.25 2.00 1 EA 4,621.85 4,621.85\nTotal Services 4,621.85\nTX State Tax 6.250% 288.86\nPasadena City Tax (SpD) 2.000% 92.44\nFinal Amount (USD) 5,003.15\nBaker Hughes treated EMS 3039/3040 @ HFO\nBaker Hughes supplied the equipment, chemical, and manpower for the treatment of barges\nThe total cost is ~$0.11/bbl or $4,621.85\nFRAUD ALERT - IF YOU RECEIVE NOTIFICATION THAT OUR BANK DETAILS HAVE CHANGED, CONTACT US IMMEDIATELY BEFORE SENDING FUNDS\nPlease remit USD checks to: Baker Hughes, PO BOX 301057, Dallas, TX 75303-1057.\nWire Transfers to: JP Morgan Chase Bank, ABA # 021000021 Swift Code: CHASUS33, A/C 00100002022.\nACH payments to: JP Morgan Chase Bank, ABA # 111000614, A/C 00100151217.\nPlease email remittance advices to: ARCCCASHAPPLICATION@BAKERHUGHES.COM\nREORDERS made easy. Visit ShopBakerHughes.com/reorders",
+      "overlap": true
+    },
+    {
+      "source": "pymupdf",
+      "page": 2,
+      "bbox": [
+        100.80000305175781,
+        95.05001068115234,
+        509.57708740234375,
+        697.0187377929688
+      ],
+      "type": "text",
+      "text": "From: Scappatura-Mitchell, Gail\nTo: \"Kristopher Luensmann\" ; John Ward ; P2R\nSubject: EMS 3040 3039\nDate: Monday, June 28, 2021 7:32:00 PM\nP leaseseesummarybelow --\nBakerHughestreatedEM S 3039/3040 @ HFO\nThankyou\nGailS c appatu ra-M itc hell\nP2R Director\nDownstream Chemicals\nBaker Hughes\nM +1917 67 92346\nbakerhughes.com\nP lease also c opy P 2R@ bakerhu ghes. c om on allnom inations.\nThis message is intended exclusively for the individual or entity to which it is addressed. This communication may contain information\nthat is proprietary, privileged or confidential or otherwise legally exempt from disclosure. If you are not the named addressee, or have\nbeen inadvertently and erroneously referenced in the address line you are not authorized to read, print, copy or disseminate this\nmessage or any part of it. If you have received this message in error, please notify the sender immediately by e-mail and delete all copies\nof the message.\nFrom:\nS ent:\nT o:\nS ubject:\nEX T ER N AL EM AIL :\nst set-ems3039/3040\nFrom:\nS ent:",
+      "overlap": true
+    },
+    {
+      "source": "pymupdf",
+      "page": 3,
+      "bbox": [
+        100.80000305175781,
+        88.09335327148438,
+        509.57708740234375,
+        691.6187133789062
+      ],
+      "type": "text",
+      "text": "T o:\nCc:\nS ubject:\nGailS c appatu ra-M itc hell\nP2R Director\nDownstream Chemicals\nBaker Hughes\nM +1917 67 92346\nbakerhughes.com\nP lease also c opy P 2R@ bakerhu ghes. c om on allnom inations.\nThis message is intended exclusively for the individual or entity to which it is addressed. This communication may contain information\nthat is proprietary, privileged or confidential or otherwise legally exempt from disclosure. If you are not the named addressee, or have\nbeen inadvertently and erroneously referenced in the address line you are not authorized to read, print, copy or disseminate this\nmessage or any part of it. If you have received this message in error, please notify the sender immediately by e-mail and delete all copies\nof the message.\nFrom:\nS ent:\nT o:\n(\nCc:\nS ubject:\nEX T ER N AL EM AIL :\nFrom:\nS ent:",
+      "overlap": true
+    },
+    {
+      "source": "pymupdf",
+      "page": 4,
+      "bbox": [
+        100.80000305175781,
+        88.09335327148438,
+        505.8667907714844,
+        319.4708557128906
+      ],
+      "type": "text",
+      "text": "T o: )\nCc:\nS ubject:\nFrom:\nS ent:\nT o:\nS ubject:\nD onotreplyto this email.This message has beensentonbehalfofM ercu riaEnergyTrad ing\nInc.P lease contactJohnW ard at jward @ mercu ria.com foranyqu estions in reference tothis\nord er.\nhere\nP lease con sid erth e en viron m en tbefore prin tin g th isem ail!",
+      "overlap": true
+    }
+  ]
+}

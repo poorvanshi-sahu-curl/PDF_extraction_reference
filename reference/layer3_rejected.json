@@ -1,0 +1,93 @@
+{
+  "doc_id": "8FF7A198",
+  "errors": [
+    "Vendor Name is missing"
+  ],
+  "warnings": [],
+  "data": {
+    "invoice_number": "EMS3039/3040",
+    "bill_to_address": {
+      "name": "MERCURIAENERGYAMERICALLC",
+      "street": "20EGREENWAYPLAZA,SUITE650",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip_code": "77046",
+      "country": "USA"
+    },
+    "ship_to_address": {
+      "name": "MERCURIAENERGYAMERICALLC",
+      "street": "C/OHOUSTONFUELOIL\n16642JACINTOPORTBLVD",
+      "city": "HOUSTON",
+      "state": "TX",
+      "zip_code": "77015",
+      "country": "USA"
+    },
+    "invoice_date": "2021-06-30",
+    "authorized_by": "Kris Luensmann",
+    "order_number": "110960476",
+    "purchase_order_number": "EMS3039/3040",
+    "line_items": [
+      {
+        "item_number": "000010",
+        "material_description": "BSRVP2R P2R Services SERVICECHARGE",
+        "quantity": "6.25",
+        "unit_price": "$2.00",
+        "extended_price": "$4,621.85",
+        "taxes": [
+          {
+            "tax_type": "TX State Tax",
+            "rate": "6.250%",
+            "amount": "$288.86"
+          },
+          {
+            "tax_type": "Pasadena City Tax (SpD)",
+            "rate": "2.000%",
+            "amount": "$92.44"
+          }
+        ]
+      }
+    ],
+    "total_amount": "$5,003.15",
+    "payment_terms": "30 Days Net",
+    "payment_due_date": "2021-07-30",
+    "term_of_delivery": "FOB DELIVERED",
+    "mode_of_transport": "Truckload",
+    "payer_number": "20077684",
+    "contact_information": {
+      "name": "Baker Petrolite LLC",
+      "address": {
+        "street": "12645 West Airport Blvd.",
+        "city": "SUGARLAND",
+        "state": "TX",
+        "zip_code": "77478",
+        "country": "USA"
+      },
+      "contact_person": "Deborah Garza",
+      "email": "Debbie.garza@bakerhughes.com",
+      "phone": "+1281-741-1459"
+    },
+    "bank_details": {
+      "check": "PO BOX 301057, Dallas, TX 75303-1057",
+      "wire_transfer": {
+        "bank": "JPMorgan Chase Bank",
+        "aba": "021000021",
+        "swift_code": "CHASUS33",
+        "account": "00100002022"
+      },
+      "ach": {
+        "bank": "JPMorgan Chase Bank",
+        "aba": "111000614",
+        "account": "00100151217"
+      }
+    },
+    "remittance_advice_email": "ARCCCASHAPPLICATION@BAKERHUGHES.COM",
+    "email_exchange": {
+      "from": "Scappatura-Mitchell, Gail",
+      "to": "Kristopher Luensmann, John Ward, P2R",
+      "subject": "EMS30403039",
+      "date": "2021-06-28T19:32:00"
+    },
+    "fraud_alert": "FRAUDALERT-IFYOURECEIVENOTIFICATIONTHATOURBANKDETAILSHAVECHANGED,CONTACTUSIMMEDIATELYBEFORESENDINGFUNDS"
+  },
+  "rejected_at": "2026-04-19T11:18:27.990129"
+}
